@@ -2,8 +2,7 @@ import React, {useState}from 'react'
 import Tasks from './Tasks'
 import BgImg from "../images/bg-desktop-dark.jpg" 
 import ToggleImg from "../images/icon-sun.svg"
-export default function SearchBar(){
-    const [text,setText]=useState("")
+export default function SearchBar(){   
     const [list,setList]=useState([])
     let sendData = (e)=>{        
         if(e.key=="Enter"){           
