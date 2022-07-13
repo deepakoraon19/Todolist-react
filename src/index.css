@@ -79,6 +79,7 @@ ul {
 .input-txt-box{
   height:3vh;
   color:white;
+  width: 90%;
 
 }
 .circle{
@@ -97,9 +98,21 @@ ul {
 .txt{
   color:white;
 }
+.check{
+  width: 100%;
+  display: none;
+}
 .txt-box{
   background-color: #292B3D;
-  padding: 2% 3%;
+  padding: 0% 3%;
+  justify-content: space-between;
+  align-items: center;
+}
+.txt-box>p{
+  width:90%;
+  display: block;
+  text-align: left;
+  overflow:auto;
 }
 hr{
   margin: 0;
@@ -107,6 +120,6 @@ hr{
   border: none;
 }
 .cross{
-  position: relative;
+  /* position: relative; */
   
 }
