@@ -123,3 +123,16 @@ hr{
   /* position: relative; */
   
 }
+.bottom-bar{
+  color:grey;
+  background-color: #292B3D;
+  padding:0% 3%;
+  font-size: .7rem;
+
+}
+.bottom-btn{
+  margin: 2vh 2.5vw;
+}
+.bottom-btn:hover{
+  color:white
+}
