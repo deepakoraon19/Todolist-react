@@ -100,7 +100,7 @@ ul {
 }
 .check{
   width: 100%;
-  display: none;
+  /* display: none; */
 }
 .txt-box{
   background-color: #292B3D;
