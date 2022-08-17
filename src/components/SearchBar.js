@@ -11,7 +11,7 @@ export default function SearchBar(props) {
       setList([...list, {id: ids, value:e.target.value, completed:false}]);
       setIds(ids+1)
       e.target.value = "";
-      console.log(list);
+      console.log(list); 
     }
   };
 
