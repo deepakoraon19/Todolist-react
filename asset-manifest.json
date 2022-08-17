@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/Todolist-react/static/css/main.feb2bc0a.css",
-    "main.js": "/Todolist-react/static/js/main.971b5fb8.js",
+    "main.css": "/Todolist-react/static/css/main.d40fc43d.css",
+    "main.js": "/Todolist-react/static/js/main.950f09da.js",
     "static/js/787.97a945da.chunk.js": "/Todolist-react/static/js/787.97a945da.chunk.js",
     "static/media/bg-desktop-dark.jpg": "/Todolist-react/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
     "index.html": "/Todolist-react/index.html",
     "static/media/icon-sun.svg": "/Todolist-react/static/media/icon-sun.910b1f9a23741afc341e95653a51f14f.svg",
     "static/media/icon-cross.svg": "/Todolist-react/static/media/icon-cross.6ee81d30b75cab19d6f7314624fcc4d6.svg",
-    "main.feb2bc0a.css.map": "/Todolist-react/static/css/main.feb2bc0a.css.map",
-    "main.971b5fb8.js.map": "/Todolist-react/static/js/main.971b5fb8.js.map",
+    "static/media/icon-check.svg": "/Todolist-react/static/media/icon-check.a8fb15d0278c8e312df5fc8364fef863.svg",
+    "main.d40fc43d.css.map": "/Todolist-react/static/css/main.d40fc43d.css.map",
+    "main.950f09da.js.map": "/Todolist-react/static/js/main.950f09da.js.map",
     "787.97a945da.chunk.js.map": "/Todolist-react/static/js/787.97a945da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.feb2bc0a.css",
-    "static/js/main.971b5fb8.js"
+    "static/css/main.d40fc43d.css",
+    "static/js/main.950f09da.js"
   ]
 }
